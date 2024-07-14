@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prototipo-veranum.git/static/css/main.9fe44a0d.css",
+    "main.js": "/prototipo-veranum.git/static/js/main.46904724.js",
+    "static/media/hotel.jpg": "/prototipo-veranum.git/static/media/hotel.2556ce722959fda97dc1.jpg",
+    "static/media/bar.jpg": "/prototipo-veranum.git/static/media/bar.730c1015439cdca66386.jpg",
+    "static/media/massage.jpg": "/prototipo-veranum.git/static/media/massage.68038931e1e3f68f372f.jpg",
+    "static/media/hotel_bg.jpg": "/prototipo-veranum.git/static/media/hotel_bg.1a37476907680d04c928.jpg",
+    "static/media/room.jpg": "/prototipo-veranum.git/static/media/room.0dfc9b203244d3cc9709.jpg",
+    "static/media/breakFAST.jpg": "/prototipo-veranum.git/static/media/breakFAST.a47b83bfaf196887e3a4.jpg",
+    "static/media/dinner.jpg": "/prototipo-veranum.git/static/media/dinner.b08bf90f3563aa5effd3.jpg",
+    "index.html": "/prototipo-veranum.git/index.html",
+    "main.9fe44a0d.css.map": "/prototipo-veranum.git/static/css/main.9fe44a0d.css.map",
+    "main.46904724.js.map": "/prototipo-veranum.git/static/js/main.46904724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe44a0d.css",
+    "static/js/main.46904724.js"
+  ]
+}
